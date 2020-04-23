@@ -1,0 +1,17 @@
+SHELL VARIABLE is variable for only shell
+ENVIRONMENT VARIABLE is variable for whole shell
+
+set ENVIRONMENT VARIABLE
+  export VARIABLE_NAME = STRING
+  pxport VARIABLE_NAME = SHELL VARIABLE_NAME
+
+
+
+
+PATH is shell variable, path for where is command
+
+
+
+
+#show PATH
+:echo $PATH
