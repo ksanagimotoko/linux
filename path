@@ -5,7 +5,10 @@ set ENVIRONMENT VARIABLE
   export VARIABLE_NAME = STRING
   pxport VARIABLE_NAME = SHELL VARIABLE_NAME
 
-
+  example) set you path
+  export PATH=$PATH:/place/with/the/file
+  
+  
 
 
 PATH is shell variable, path for where is command
