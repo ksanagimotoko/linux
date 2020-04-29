@@ -8,7 +8,7 @@ set ENVIRONMENT VARIABLE
   example) set you path
   export PATH=$PATH:/place/with/the/file
   
-  
+    PATH=$PATH:$(pwd)
 
 
 PATH is shell variable, path for where is command
